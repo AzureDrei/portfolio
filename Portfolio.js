@@ -50,7 +50,7 @@ window.addEventListener('scroll', function () {
 
 //buttons workshowcase
 function Openresume() {
-  window.open("https://drive.google.com/file/d/1RZBkYSbq4O7_VHrAHVWu88OTbEjRfzZL/view?usp=sharing");
+  window.open("https://drive.google.com/file/d/1nit8K9eHuJvCCw_2xEMtXQtkKGtw1Lut/view?usp=sharing");
 }
 /*
 function openDoggotreats() {
@@ -271,5 +271,6 @@ document.addEventListener("DOMContentLoaded", () => {
 window.onbeforeunload = function () {
       window.scrollTo(0, 0);
     };
+
 
 
